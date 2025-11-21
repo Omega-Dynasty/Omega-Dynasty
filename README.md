@@ -1,6 +1,44 @@
-# 💫 About Me:
+### 👋 Hi there, I'm **[Ton Prénom]**  
+🎓 Student at **Junia – Prépa**  
+🔐 Future **Cybersecurity / AI Engineer** (work in progress)
 
-## 👋 Hi there, I'm **Omega** <br>🎓 Student at **Junia – Prépa**  <br>🔐 Future **Cybersecurity / AI Engineer** (work in progress)<br><br>---<br><br>## 🔭 I’m currently working on<br>- Building my skills in **C** and **OCaml**<br>- Improving my **web development** basics (HTML, PHP)<br>- Strengthening algorithmic thinking through my prep courses<br><br>## 🌱 I’m currently learning<br>- **C language** → memory, pointers, compilation  <br>- **OCaml** → functional programming mindset  <br>- **Python** (already comfortable, always refining)  <br><br>## 👯 I’m looking to collaborate on<br>- Python projects (games, automation, data)  <br>- Small C/OCaml open-source exercises  <br>- Anything related to **cybersecurity** or **AI basics**<br><br>### 💬 Ask me about<br>- Python (my strongest language)  <br>- How to start in web dev  <br>- Prep school life & workflow  <br><br>## 🚀 Goals<br>- Become an engineer in **Cybersecurity / AI**  <br>- Build solid foundations in low-level programming  <br>- Develop a strong open-source presence<br><br>## ⚡ Fun fact<br>- I lift weights, climb walls, play chess, AND debug code  <br>  → sometimes all in the same week 😄  <br>
+---
+
+### 🔭 I’m currently working on
+- Building my skills in **C** and **OCaml**
+- Improving my **web development** basics (HTML, PHP)
+- Strengthening algorithmic thinking through my prep courses
+
+### 🌱 I’m currently learning
+- **C language** → memory, pointers, compilation  
+- **OCaml** → functional programming mindset  
+- **Python** (already comfortable, always refining)  
+
+### 👯 I’m looking to collaborate on
+- Python projects (games, automation, data)  
+- Small C/OCaml open-source exercises  
+- Anything related to **cybersecurity** or **AI basics**
+
+### 💬 Ask me about
+- Python (my strongest language)  
+- How to start in web dev  
+- Prep school life & workflow  
+
+### 🚀 Goals
+- Become an engineer in **Cybersecurity / AI**  
+- Build solid foundations in low-level programming  
+- Develop a strong open-source presence
+
+### ⚡ Fun fact
+- I lift weights, climb walls, play chess, AND debug code  
+  → sometimes all in the same week 😄  
+
+---
+
+### 📫 How to reach me
+- *(Ajoute ton mail / LinkedIn si tu veux)*
+
+
 
 
 ## 🌐 Socials:
