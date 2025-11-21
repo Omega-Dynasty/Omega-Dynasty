@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm **[Ton Prénom]**  
+### 👋 Hi there, I'm **Omega**  
 🎓 Student at **Junia – Prépa**  
 🔐 Future **Cybersecurity / AI Engineer** (work in progress)
 
