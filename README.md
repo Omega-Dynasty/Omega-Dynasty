@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm **Omega**  
+<!-- ### 👋 Hi there, I'm **Omega**  
 🎓 Student at **Junia – Prépa**  
 🔐 Future **Cybersecurity / AI Engineer** (work in progress)
 
@@ -32,7 +32,7 @@
 ### ⚡ Fun fact
 - I lift weights, climb walls, play chess, AND debug code  
   → sometimes all in the same week 😄  
-
+--->
 ---
 
 ## 🌐 Socials:
@@ -47,7 +47,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Omega-Dynasty&theme=default&no-frame=false&no-bg=true&margin-w=4)
-<!-- 
+
 ### 🔝 Top Contributed Repo/*
 ![](https://github-contributor-stats.vercel.app/api?username=Omega-Dynasty&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
